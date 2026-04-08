@@ -1,0 +1,47 @@
+
+--- SISTEM PORNIT ---
+Au ajuns 5 masini la semaforul Nord-Sud
+Au ajuns 5 masini la semaforul Nord-Sud
+Au ajuns 4 masini la semaforul Est-Vest
+Au ajuns 3 masini la semaforul Nord-Sud
+Au ajuns 3 masini la semaforul Est-Vest
+Au ajuns 5 masini la semaforul Nord-Sud
+Au ajuns 5 masini la semaforul Est-Vest
+-> Semaforul Nord-Sud a devenit VERDE
+-> Semaforul Est-Vest a devenit ROSU
+Au trecut 8 masini pe directia Nord-Sud
+Au ajuns 4 masini la semaforul Nord-Sud
+[!] O ambulanta a ajuns la semaforul Est-Vest
+-> Semaforul Est-Vest a devenit VERDE
+-> Semaforul Nord-Sud a devenit ROSU
+[!] Ambulanta a trecut prin intersectie pe directia Est-Vest
+Au trecut 7 masini pe directia Est-Vest
+Au ajuns 2 masini la semaforul Nord-Sud
+Au ajuns 5 masini la semaforul Est-Vest
+-> Semaforul Nord-Sud a devenit VERDE
+-> Semaforul Est-Vest a devenit ROSU
+Au trecut 8 masini pe directia Nord-Sud
+[!] O ambulanta a ajuns la semaforul Nord-Sud
+Au ajuns 2 masini la semaforul Nord-Sud
+Au ajuns 3 masini la semaforul Est-Vest
+-> Semaforul Nord-Sud a devenit VERDE
+-> Semaforul Est-Vest a devenit ROSU
+[!] Ambulanta a trecut prin intersectie pe directia Nord-Sud
+Au trecut 7 masini pe directia Nord-Sud
+-> Semaforul Est-Vest a devenit VERDE
+-> Semaforul Nord-Sud a devenit ROSU
+Au ajuns 2 masini la semaforul Nord-Sud
+Au trecut 8 masini pe directia Est-Vest
+Au ajuns 4 masini la semaforul Nord-Sud
+Au ajuns 1 masini la semaforul Est-Vest
+Au trecut 6 masini pe directia Est-Vest
+-> Semaforul Nord-Sud a devenit VERDE
+-> Semaforul Est-Vest a devenit ROSU
+Au ajuns 4 masini la semaforul Nord-Sud
+Au ajuns 3 masini la semaforul Est-Vest
+Au trecut 8 masini pe directia Nord-Sud
+Au ajuns 5 masini la semaforul Nord-Sud
+Au ajuns 2 masini la semaforul Est-Vest
+Au trecut 8 masini pe directia Nord-Sud
+Au ajuns 3 masini la semaforul Nord-Sud
+Au trecut 5 masini pe directia Nord-Sud
